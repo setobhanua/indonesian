@@ -1,0 +1,435 @@
+{
+	"lives": 3,
+	"categories": [
+		{
+			"questions": [
+				{
+					"question": "Which Province Image is it?",
+					"choices": [
+						"Jateng",
+						"Maluku Utara",
+						"Kepuluan Bangka Belitung"
+					],
+					"answer": 0,
+					"image": "jateng.png",
+					"answer_image": "jateng.png"
+				},
+				{
+					"question" : "Province What is this?",
+					"choices" :[
+						"Kalimantan timur",
+						"Sumatra Utara",
+						"Jawa Barat"
+					],
+					"answer":2,
+					"image":"jabar.png",
+					"answer_image":"jabar.png"
+				},
+				{
+					"question" : "Province What is this?",
+					"choices" :[
+						"Papua",
+						"Nusa Tenggara Barat",
+						"DKI"
+					],
+					"answer":2,
+					"image":"DKI.png",
+					"answer_image":"DKI.png"
+				},
+				{
+					"question": "Which Province Image is it?",
+					"choices": [
+						"Lampung",
+						"DIY",
+						"Aceh"
+					],
+					"answer": 1,
+					"image": "DIY.png",
+					"answer_image": "DIY.png"
+				},
+				{
+					"question" : "Province What is this?",
+					"choices" :[
+						"Banten",
+						"Kepeluan Riau",
+						"Riau"
+					],
+					"answer":0,
+					"image":"banten.png",
+					"answer_image":"banten.png"
+				},
+				{
+					"question": "Which Province Image is it?",
+					"choices": [
+						"Bali",
+						"Jawa Timur",
+						"Sulawesi Tengah"
+					],
+					"answer": 1,
+					"image": "jatim.png",
+					"answer_image": "jatim.png"
+				},
+				{
+					"question": "Which Province Image is it?",
+					"choices": [
+						"Maluku",
+						"NTT",
+						"Lampung"
+					],
+					"answer": 1,
+					"image": "ntt.png",
+					"answer_image": "ntt.png"
+				},
+				{
+					"question": "Province What is this?",
+					"choices": [
+						"Bali",
+						"Papua Barat",
+						"Maluku Utara"
+					],
+					"answer": 0,
+					"image": "bali.png",
+					"answer_image": "bali.png"
+				},
+				{
+					"question": "Which Province Image is it?",
+					"choices": [
+						"NTB",
+						"Aceh",
+						"Lampung"
+					],
+					"answer": 2,
+					"image": "lampung.png",
+					"answer_image": "lampung.png"
+				},
+				{
+					"question": "Province What is this?",
+					"choices": [
+						"Bengkulu",
+						"Bangka Belitung",
+						"Kepuluan Riau"
+					],
+					"answer": 1,
+					"image": "babel.png",
+					"answer_image": "babel.png"
+				}
+			]
+		},
+		{
+			"questions": [
+				{
+					"question": "'The Capital City is Pekanbaru'. From this information, What Province is it?",
+					"choices": [
+						"Riau",
+						"Kepuluan Riau",
+						"Jambi",
+						"Bengkulu"
+					],
+					"answer": 0,
+					"image": "riau.png",
+					"answer_image": "riau.png"
+				},
+				{
+					"question": "The westernmost province in Indonesia is?",
+					"choices": [
+						"Jawa Barat",
+						"Riau",
+						"Aceh",
+						"Papua Barat"
+					],
+					"answer": 2
+				},
+				{
+					"question": "The famous kingdom of sumatra selatan namely?",
+					"choices": [
+						"majapahit",
+						"Sriwijaya",
+						"Kediri",
+						"Samudra Pasai"
+					],
+					"answer": 1
+				},
+				{
+					"question": "That are the traditional clothes from?",
+					"choices": [
+						"Jawa Tengah",
+						"Yogyakarta",
+						"Jawa Timur",
+						"Bali"
+					],
+					"answer": 0,
+					"image": "bajujateng.png",
+					"answer_image": "bajujateng.png"
+				},
+				{
+					"question": "The only province in Indonesia that still applies a royal government system is?",
+					"choices": [
+						"Yogyakarta",
+						"Jawa Tengah",
+						"Jawa Barat",
+						"Kalimantan Timur"
+					],
+					"answer": 0
+				},
+				{
+					"question": "The largest province in Java is?",
+					"choices": [
+						"Jawa Barat",
+						"Jawa Tengah",
+						"Jawa Timur",
+						"Banten"
+					],
+					"answer": 2
+				},
+				{
+					"question": "The longest river in indonesia is",
+					"choices": [
+						"Kapuas",
+						"Kali Pemali",
+						"Kali Ciliwung",
+						"Kali Kalila"
+					],
+					"answer": 0
+				},
+				{
+					"question": "In Kalimantan Tengah Forests dominate the area….%",
+					"choices": [
+						"20%",
+						"30%",
+						"75%",
+						"80%"
+					],
+					"answer": 3
+				},
+				{
+					"question": "The youngest province in Indonesia is?",
+					"choices": [
+						"Kalimantan Timur",
+						"Kalimantan Selatan",
+						"Papua Barat",
+						"Nusa Tenggara Barat"
+					],
+					"answer": 0
+				},
+				{
+					"question": "The nickname of maluku is?",
+					"choices": [
+						"Kepuluan Rempah",
+						"Kepuluan Seribu",
+						"Kepuluan Surga",
+						"Kepuluan Wanita"
+					],
+					"answer": 0
+				},
+				{
+					"question": "The second largest island in the world is?",
+					"choices": [
+						"Kalimantan",
+						"Papua",
+						"Jawa",
+						"Madura"
+					],
+					"answer": 1
+				},
+				{
+					"question": "Sadariah its traditional clothes from?",
+					"choices": [
+						"Jambi",
+						"Riau",
+						"Jakarta",
+						"Aceh"
+					],
+					"answer": 2
+				},
+				{
+					"question": "Angklung musical instrument which was designated as a world cultural heritage by ?",
+					"choices": [
+						"2007",
+						"2010",
+						"2008",
+						"2011"
+					],
+					"answer": 1
+				},
+				{
+					"question": "Ones of the richest provinces in Indonesia with natural resources of petroleum, natural gas and palm oil is ?",
+					"choices": [
+						"Jambi",
+						"Sumatra Barat",
+						"Kaliamnatan Selatan",
+						"Riau"
+					],
+					"answer": 3
+				},
+				{
+					"question": "How many provinces were there in indo at the start of the independence ?",
+					"choices": [
+						"8 provinces",
+						"10 provinces",
+						"12 provinces",
+						"14 provinces"
+					],
+					"answer": 0
+				}
+			]
+		},
+		{
+			"questions": [
+				{
+					"question": "this is the custom home from?",
+					"choices": [
+						"Papua",
+						"Papua Barat",
+						"Maluku",
+						"Nusa Tenggara Timur"
+					],
+					"answer": 1,
+					"image": "rumpapuabarat.jpg",
+					"answer_image": "rumpapuabarat.jpg"
+				},
+				{
+					"question": "An animal originating from Sulawesi Tenggara called",
+					"choices": [
+						"banteng",
+						"Cendrawasih",
+						"Bebek",
+						"Anoa"
+					],
+					"answer": 3
+				},
+				{
+					"question": "The people of Gorontalo have a culture of 'Moleleyangi' or in Indonesian it is called",
+					"choices": [
+						"Merantau",
+						"bertengkar",
+						"Berpelukan",
+						"Pulang Kampung"
+					],
+					"answer": 0
+				},
+				{
+					"question": "Banjarmasin is one of the cities in the province of Kalimantan Selatan which is called the city of",
+					"choices": [
+						"Thousand years",
+						"Thousand mountain",
+						"Thousand school",
+						"Thousand Rivers"
+					],
+					"answer": 3
+				},
+				{
+					"question": "The rice field system has been designated as a world heritage site by UNESCO called?",
+					"choices": [
+						"Subak System",
+						"Angon Pare System",
+						"Nandur System",
+						"Sawah System"
+					],
+					"answer": 0
+				},
+				{
+					"question": "Second most widely spoken regional language in Indonesia is?",
+					"choices": [
+						"Javanase",
+						"Sundanese",
+						"Bataknese",
+						"Papuan"
+					],
+					"answer": 0
+				},
+				{
+					"question": "Since Indonesia's independence until 1958, Jakarta is part of?",
+					"choices": [
+						"Banten",
+						"Jawa Barat",
+						"jawa Tengah",
+						"Batavia"
+					],
+					"answer": 1
+				},
+				{
+					"question": "The traditional clothes from banten called?",
+					"choices": [
+						"Baju Pangsi",
+						"Baju Angon",
+						"Baju Batik",
+						"Baju Kebaya"
+					],
+					"answer": 0
+				},
+				{
+					"question": "Bengkulu has a traditional batik namely?",
+					"choices": [
+						"Parang",
+						"Jowiwo",
+						"Besurek",
+						"Lasem"
+					],
+					"answer": 2
+				},
+				{
+					"question": "The word 'Jambi' comes from the Javanese 'Jambe' which means?",
+					"choices": [
+						"People",
+						"Forest",
+						"Money",
+						"Areca"
+					],
+					"answer": 3
+				},
+				{
+					"question": "The following is the traditional house of the region?",
+					"choices": [
+						"jawa Tengah",
+						"Sumatra Barat",
+						"Riau",
+						"Kalimantan Barat"
+					],
+					"answer": 2,
+					"image": "rumahriau.jpg",
+					"answer_image": "rumahriau.jpg"
+				},
+				{
+					"question": "In Sumatra Barat there is a unique marriage rule called?",
+					"choices": [
+						"Matrineal System",
+						"Subak System",
+						"Democratic System",
+						"Bulaso System"
+					],
+					"answer": 0
+				},
+				{
+					"question": "The history of the king Datuk Paduko Berhalo, and his consort, Putri Selaras Pinang Masak are come from?",
+					"choices": [
+						"Riau",
+						"Sumatra Barat",
+						"Aceh",
+						"Jambi"
+					],
+					"answer": 0
+				},
+				{
+					"question": "A village above the clouds from Nusa Tenggara Timur named?",
+					"choices": [
+						"Desa Wae Rebo",
+						"Desa Wae Kambas",
+						"Desa Subakusa",
+						"Desa Mimika"
+					],
+					"answer": 0
+				},
+				{
+					"question": "Before being split into …….., Kalimantan Timur Province was the second largest province in Indonesia after Papua?",
+					"choices": [
+						"Kalimantan Utara",
+						"Kalimantan Barat",
+						"Kalimantan Timur",
+						"Kaliamnatan Selatan"
+					],
+					"answer": 0
+				}
+			]
+		}
+	]
+}

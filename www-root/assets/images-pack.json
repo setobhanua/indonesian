@@ -1,0 +1,151 @@
+{
+    "images_questions": [
+        {
+            "type": "image",
+            "key": "image_question_0_0",
+            "url": "assets/images_questions/jateng.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_0",
+            "url": "assets/images_questions/jateng.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_1",
+            "url": "assets/images_questions/jabar.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_1",
+            "url": "assets/images_questions/jabar.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_2",
+            "url": "assets/images_questions/DKI.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_2",
+            "url": "assets/images_questions/DKI.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_3",
+            "url": "assets/images_questions/DIY.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_3",
+            "url": "assets/images_questions/DIY.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_4",
+            "url": "assets/images_questions/banten.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_4",
+            "url": "assets/images_questions/banten.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_5",
+            "url": "assets/images_questions/jatim.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_5",
+            "url": "assets/images_questions/jatim.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_6",
+            "url": "assets/images_questions/ntt.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_6",
+            "url": "assets/images_questions/ntt.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_7",
+            "url": "assets/images_questions/bali.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_7",
+            "url": "assets/images_questions/bali.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_8",
+            "url": "assets/images_questions/lampung.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_8",
+            "url": "assets/images_questions/lampung.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_0_9",
+            "url": "assets/images_questions/babel.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_0_9",
+            "url": "assets/images_questions/babel.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_1_0",
+            "url": "assets/images_questions/riau.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_1_0",
+            "url": "assets/images_questions/riau.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_1_3",
+            "url": "assets/images_questions/bajujateng.png"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_1_3",
+            "url": "assets/images_questions/bajujateng.png"
+        },
+        {
+            "type": "image",
+            "key": "image_question_2_0",
+            "url": "assets/images_questions/rumpapuabarat.jpg"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_2_0",
+            "url": "assets/images_questions/rumpapuabarat.jpg"
+        },
+        {
+            "type": "image",
+            "key": "image_question_2_10",
+            "url": "assets/images_questions/rumahriau.jpg"
+        },
+        {
+            "type": "image",
+            "key": "image_answer_2_10",
+            "url": "assets/images_questions/rumahriau.jpg"
+        }
+    ],
+    "meta": {
+        "generated": "1401380327373",
+        "app": "Phaser Asset Packer",
+        "url": "http://phaser.io",
+        "version": "1.0",
+        "copyright": "Photon Storm Ltd. 2014"
+    }
+}
